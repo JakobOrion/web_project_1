@@ -1,6 +1,6 @@
 # Project 2
 
-#### by Jakob Pfefferkorn
+#### by Jakob Bohn
 
 The project for Sprint 2 of the Practicum by Yandex Web Development program continues the development of the single page website started in Sprint 1, "Learning how to learn."
 
